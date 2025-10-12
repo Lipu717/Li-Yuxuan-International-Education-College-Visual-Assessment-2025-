@@ -1,0 +1,3 @@
+﻿  question5_2.cpp
+D:\vs\10.19\rm\question5_2.cpp(58,23): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  rm.vcxproj -> D:\vs\10.19\rm\x64\Debug\rm.exe
